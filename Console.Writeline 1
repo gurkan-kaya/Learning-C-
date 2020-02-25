@@ -1,0 +1,23 @@
+
+//Burada "{0}" bize şunu sağladı: Önce tırnak içindeki ifadeyi bastırdı ardından virgülden sonraki kısmı bastırmaya devam etti.
+
+
+
+using System;
+
+namespace ConsoleApp4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int tamsayi = 1234;
+            Console.WriteLine("int:{0}",tamsayi);
+
+        }
+    }
+}
+/*output:
+int:1234; */
+
+
