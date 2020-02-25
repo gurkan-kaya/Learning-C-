@@ -1,0 +1,24 @@
+//Console Readline girilenleri bir string olarak okur. int,float gibi farklı tiplere çevirmek için ise "parse" kullanmak gerekir.
+//Kullanımı örnekteki gibidir.
+
+
+
+using System;
+
+namespace ConsoleApp4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string yazi = Console.ReadLine();
+            int sayi = int.Parse(Console.ReadLine());
+            float ondalik = float.Parse(Console.ReadLine());
+
+                Console.WriteLine(yazi);
+                Console.WriteLine(sayi);
+                Console.WriteLine(ondalik);
+
+        }
+    }
+}
