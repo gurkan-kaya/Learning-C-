@@ -1,0 +1,25 @@
+//2. Örnek: Aşağıdaki şekilde ise tek satırda yazdırılabilir.
+
+using System;
+
+namespace ConsoleApp4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int tamsayi = 1234;
+            double ondalik = 345.21;
+            float ondalik2 = 67.15f; //float tanımlamalarında yazılan sayının yanına f yazılmalıdır,aksi takdirde program hata verir.
+
+            Console.WriteLine("int:{0}-double:{1}-float:{2}", tamsayi, ondalik, ondalik2); ;
+
+        }
+    }
+}
+
+
+//output:     int:1234-double:345,21-float:67,15
+//Eğer aralarına boşluk bırakmak istiyorsak {0,10} gibi bir kullanımda sağa yaslı 10 birim şeklinde yazdırılır.
+//Sola yaslı şekilde basılmasını istiyorsak {0,-5} gibi bir kullanımda sağa yaslı 5 birim şeklinde yazdırılır.
+
