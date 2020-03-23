@@ -1,0 +1,61 @@
+using System;
+namespace ConsoleApp7
+{
+    class Hesaplama
+    {
+       public double OrtalamaBul(int[] sayilar, int elemanSayisi )
+        {
+            double ortalama = 0.0;
+            int toplam = 0;
+            for (int i = 0; i < elemanSayisi ; i++)
+            {
+
+                toplam += sayilar[i];
+                
+            }
+            ortalama = toplam / elemanSayisi;
+
+            return ortalama;
+        }
+
+        public void BirArttir(int[] sayilar, int elemanSayisi)
+        {
+            for (int i = 0; i < elemanSayisi; i++)
+            {
+                sayilar[i]++;
+            }
+        }
+
+        public void yazdir(int[] sayilar, int elemanSayisi)
+        {
+            for (int i = 0; i < elemanSayisi; i++)
+            {
+                Console.WriteLine("{0,5}", sayilar[i]);
+            }
+        }
+    
+
+       
+    }
+     
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] SayilarDizisi = new int[20];
+            Random rnd = new Random();
+            for (int i = 0; i < 10; i++)
+            {
+                SayilarDizisi[i] = rnd.Next(1, 10);
+            }
+            Hesaplama hsp = new Hesaplama();
+            double ortalama = hsp.OrtalamaBul(SayilarDizisi,10);
+            hsp.yazdir(SayilarDizisi,10);
+            Console.WriteLine();
+            hsp.BirArttir(SayilarDizisi,10);
+            hsp.yazdir(SayilarDizisi, 10);
+         }
+    }
+   
+}
+
