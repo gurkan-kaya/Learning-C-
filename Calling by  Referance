@@ -1,0 +1,29 @@
+using System;
+
+namespace ConsoleApp8
+{
+    class Program
+    {
+        
+         static void degistir(ref int a,ref int b)
+            {
+                int temp = b;
+                b = a;
+                a = temp;
+            }
+
+        static void Main(string[] args)
+        {
+            int a = 10;
+            int b = 20;
+
+            degistir(ref a,ref b);
+            Console.WriteLine("{0}-{1}",a,b);
+
+
+        }
+    }
+}
+
+//Output is: 20-10
+
