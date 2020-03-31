@@ -1,0 +1,30 @@
+using System;
+
+namespace ConsoleApp
+{
+    class Ogrenci
+    {
+       private int yas = 15;
+        public int yaskapsul
+        {
+            get //To use value
+            {
+                return yas;
+            }
+            set //To assign value
+            {
+                yas = value; // value is a keyword here
+            }
+        }
+    }
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Ogrenci ogr = new Ogrenci();
+            ogr.yaskapsul = 20;
+            Console.WriteLine(ogr.yaskapsul);
+        }
+    }
+}
