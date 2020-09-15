@@ -1,0 +1,9 @@
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\bin\Debug\at-yarisi-oyun.exe.config
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\bin\Debug\at-yarisi-oyun.exe
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\bin\Debug\at-yarisi-oyun.pdb
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\obj\Debug\at-yarisi-oyun.csprojAssemblyReference.cache
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\obj\Debug\at_yarisi_oyun.Form1.resources
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\obj\Debug\at_yarisi_oyun.Properties.Resources.resources
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\obj\Debug\at-yarisi-oyun.csproj.GenerateResource.cache
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\obj\Debug\at-yarisi-oyun.exe
+C:\Users\kaya-\source\repos\at-yarisi-oyun\at-yarisi-oyun\obj\Debug\at-yarisi-oyun.pdb
