@@ -1,0 +1,9 @@
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\bin\Debug\atik-toplama-oyun.exe.config
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\bin\Debug\atik-toplama-oyun.exe
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\bin\Debug\atik-toplama-oyun.pdb
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\obj\Debug\atik-toplama-oyun.csprojAssemblyReference.cache
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\obj\Debug\atik_toplama_oyun.Form1.resources
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\obj\Debug\atik_toplama_oyun.Properties.Resources.resources
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\obj\Debug\atik-toplama-oyun.csproj.GenerateResource.cache
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\obj\Debug\atik-toplama-oyun.exe
+C:\Users\kaya-\source\repos\atik-toplama-oyun\atik-toplama-oyun\obj\Debug\atik-toplama-oyun.pdb
